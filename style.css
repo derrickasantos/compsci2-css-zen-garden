@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch|Damion|Kranky|Pacifico|Zeyada');
+
+header{
+    background-color: #fcfc7e;
+    opacity: 0.7;
+    font-weight: bold;
+    text-align: center;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/736x/52/20/3a/52203a209f24df5e5f9afa8d1faf3171--poppy-line-drawing-flower-ink-drawing.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Zeyada', cursive; 
+    font-size: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 75px;
+    font-family: 'Kranky', cursive;
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'Zeyada', cursive; 
+}
+
+.summary{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+.summary{
+    background-color: #FFBDA7; 
+    opacity: 0.7;
+    font-weight: bold;
+}
+.preamble{
+    background-color: #91B3F8; 
+    opacity: 0.7;
+    font-weight: bold;
+}
+.explanation{
+    background-color: #ACFFD9; 
+    opacity: 0.7;
+    font-weight: bold;
+}
+.participation{
+    background-color: #D8FFAC; 
+    opacity: 0.7;
+    font-weight: bold;
+}
+.benefits{
+    background-color: #e4afff; 
+    opacity: 0.7;
+    font-weight: bold;
+}
+.requirements{
+    background-color: #ffc984; 
+    opacity: 0.7;
+    font-weight: bold;
+}
+
